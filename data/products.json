@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Agua mineral 1.5L",
+    "price": 65,
+    "stock": 50,
+    "category": "Bebidas"
+  },
+  {
+    "name": "Arvejas 300g",
+    "price": 55,
+    "stock": 22,
+    "category": "Almacén"
+  },
+  {
+    "name": "Pan de molde",
+    "price": 120,
+    "stock": 15,
+    "category": "Panadería"
+  }
+]
